@@ -7,8 +7,8 @@
 ## Front-end
 1. HTML
 2. JAVASCRIPT
-## Back-end
 3. CSS
+## Back-end
 4. NODE / EXPRESS
 5. SQLITE
 
